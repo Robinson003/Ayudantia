@@ -1,0 +1,8 @@
+Crea una carpeta nueva en tu computadora
+Crea un archivo dentro de la carpeta (por ejemplo, un archivo de texto)
+Inicia un repositorio Git en esa carpeta
+Agrega y haz commit del archivo
+Modifica el archivo, guarda los cambios y haz un nuevo commit
+Revisa el historial de commits
+Vuelve al primer commit (modo "detached head")
+Regresa a la rama principal del repositorio
